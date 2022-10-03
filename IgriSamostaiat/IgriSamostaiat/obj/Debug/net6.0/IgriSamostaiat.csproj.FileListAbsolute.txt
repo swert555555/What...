@@ -1,0 +1,15 @@
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\bin\Debug\net6.0\IgriSamostaiat.exe
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\bin\Debug\net6.0\IgriSamostaiat.deps.json
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\bin\Debug\net6.0\IgriSamostaiat.runtimeconfig.json
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\bin\Debug\net6.0\IgriSamostaiat.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\bin\Debug\net6.0\IgriSamostaiat.pdb
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\obj\Debug\net6.0\IgriSamostaiat.csproj.AssemblyReference.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\obj\Debug\net6.0\IgriSamostaiat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\obj\Debug\net6.0\IgriSamostaiat.AssemblyInfoInputs.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\obj\Debug\net6.0\IgriSamostaiat.AssemblyInfo.cs
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\obj\Debug\net6.0\IgriSamostaiat.csproj.CoreCompileInputs.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\obj\Debug\net6.0\IgriSamostaiat.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\obj\Debug\net6.0\refint\IgriSamostaiat.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\obj\Debug\net6.0\IgriSamostaiat.pdb
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\obj\Debug\net6.0\IgriSamostaiat.genruntimeconfig.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\IgriSamostaiat\IgriSamostaiat\obj\Debug\net6.0\ref\IgriSamostaiat.dll
